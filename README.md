@@ -1,3 +1,5 @@
+TMDB API KEY -- c79a4ba2a6b71776c4d313609ce50e9e
+
 # NETFLIX GPT
 
 - Create React App
@@ -15,6 +17,22 @@
 - Created Redux Store with userSlice
 - Implemented SignOut
 - Update Profile
+- BugFix: SignUp user displayName and Profile Picture Update
+- BugFix: If the user is not logged in Redirect /browse to Login Page And VICE-VERSA
+- Unsubscribed To The onAuthStateChanged Callback
+- Add Hardcoded Values To Constants File
+- Register TMDB API & create an app & get access token
+- Get Data from TMDB now playing movies list API
+- Custom Hook For Now Playing movies --
+- Create movieSlice
+- Update store with movies data
+- Planning for Main Container And Secondary Container
+- Fetch data for Trailer Video
+- Custom Hook for Trailer Video Data --
+- Update store with Trailer Video Data
+- Embedded the Youtube Video and make it autoplay and mute
+- Tailwind classes to make our Main Container look Awesome
+-
 
 # Features
 
