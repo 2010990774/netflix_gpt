@@ -1,4 +1,4 @@
-TMDB API KEY -- c79a4ba2a6b71776c4d313609ce50e9e
+<!-- TMDB API KEY -- c79a4ba2a6b71776c4d313609ce50e9e -->
 
 # NETFLIX GPT
 
@@ -32,7 +32,14 @@ TMDB API KEY -- c79a4ba2a6b71776c4d313609ce50e9e
 - Update store with Trailer Video Data
 - Embedded the Youtube Video and make it autoplay and mute
 - Tailwind classes to make our Main Container look Awesome
--
+- Build Secondary Container
+- Build Movies List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browser page amazing with Tailwind CSS
+- usePopularMovies Custom Hook --
+- useTopRatedMovies Custom Hook --
+- useUpcomingMovies Custom Hook --
 
 # Features
 
