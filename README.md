@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<!-- TMDB API KEY -- c79a4ba2a6b71776c4d313609ce50e9e -->
-=======
->>>>>>> 68b65f6498fe500ed875f2f56b746a8a92c98201
+
 
 # NETFLIX GPT
 
