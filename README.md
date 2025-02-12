@@ -1,7 +1,8 @@
 <<<<<<< HEAD
-<!-- TMDB API KEY -- c79a4ba2a6b71776c4d313609ce50e9e -->
-=======
->>>>>>> 68b65f6498fe500ed875f2f56b746a8a92c98201
+
+# <!-- TMDB API KEY -- c79a4ba2a6b71776c4d313609ce50e9e -->
+
+> > > > > > > 68b65f6498fe500ed875f2f56b746a8a92c98201
 
 # NETFLIX GPT
 
@@ -43,6 +44,18 @@
 - usePopularMovies Custom Hook --
 - useTopRatedMovies Custom Hook --
 - useUpcomingMovies Custom Hook --
+- GPT Search Page
+- GPT Search Bar
+- (Bonus) Multi-Language Feature In Our App
+- Get Open AI API Key
+- Get Search API Key
+- Fetched gptMovieSuggestions From TMDB
+- Created gptSlice And Added Data To it
+- Reused MovieList Component to make movie suggestion container
+- Memoization
+- Added .env File
+- Added .encv File To gitIgnore
+- Make Our Site Responsive
 
 # Features
 
